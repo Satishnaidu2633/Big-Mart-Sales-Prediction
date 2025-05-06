@@ -49,11 +49,11 @@ The dataset contains features related to products and outlets, including:
 
 ## 🚀 How to Run
 
-1. Clone this repository:
+ Clone this repository:
    ```bash
    git clone https://github.com/Satishnaidu2633/Big-Mart-Sales-Prediction
    ```
-## 2️⃣ Install Dependencies
+## Install Dependencies
 
 Make sure you have Python installed. Then, install the required libraries using pip:
 
