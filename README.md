@@ -36,7 +36,7 @@ The dataset contains features related to products and outlets, including:
 1. Data Cleaning & Preprocessing
 2. Exploratory Data Analysis (EDA)
 3. Feature Engineering
-4. Model Training (Linear Regression, Decision Tree, etc.)
+4. Model Training (XGBoost)
 5. Model Evaluation (R² Score, RMSE)
 6. Prediction on test data
 
